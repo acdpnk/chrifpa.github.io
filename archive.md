@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: archive
 title: Archive
-permalink: /foobar/
+permalink: /archive/
 ---
 
 Hello...
