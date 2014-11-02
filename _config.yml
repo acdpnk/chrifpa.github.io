@@ -10,3 +10,4 @@ adn_username:     chrifpa
 
 # Build settings
 markdown: kramdown
+paginate: 20
