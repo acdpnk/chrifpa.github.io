@@ -34,6 +34,15 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">Find older posts in the <a href="{{ "/archive/" | prepend: site.baseurl }}">Archive</a></p>
+  <nav class="pagination">
+  {% if paginator.next_page %}
+      <span style="margin-right:20px"><a href="{{ paginator.next_page_path }}" class="next">&laquo;older&nbsp;</a></span>
+  {% endif %}
+  {% if paginator.previous_page %}
+      <span style="margin-left:20px"><a href="{{ paginator.previous_page_path }}" class="previous">&nbsp;newer&raquo;</a></span>
+  {% endif %}
+  </nav>
+
+  <!-- <p class="rss-subscribe">Find older posts in the <a href="{{ "/archive/" | prepend: site.baseurl }}">Archive</a></p> -->
 
 </div>
