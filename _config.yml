@@ -1,5 +1,5 @@
 # Site settings
-title: acid pink
+title: acid.pink
 email: chrifpa@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chrifpa.github.io" # the base hostname & protocol for your site
 twitter_username: chrifpa
 github_username:  chrifpa
+adn_username: chrifpa
 
 # Build settings
 markdown: kramdown
