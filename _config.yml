@@ -3,12 +3,15 @@ title: ACIDPINK
 feed_title: ACIDPINK
 email: chrifpa@gmail.com
 description: >
+
+
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://acid.pink" # the base hostname & protocol for your site
 twitter_username: chrifpa
 github_username:  chrifpa
 adn_username:     chrifpa
-link_char: "↦"
+link_char: " ↦"
 
 # Build settings
 markdown: kramdown
