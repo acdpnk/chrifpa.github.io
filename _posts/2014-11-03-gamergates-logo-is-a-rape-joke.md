@@ -7,6 +7,7 @@ category: link gamergate
 date: 2014-11-03 16:39
 ---
 
+[Fast Company](http://www.fastcodesign.com/3037941/the-secret-meaning-behind-gamergates-branding?):
 >those following the GamerGate saga have seemed surprised to learn that a crowdsourced mascot and logo created during the donation drive included a color scheme linked to a cartoon rape meme
 
 1. Who is surprised? Certainly not me.
