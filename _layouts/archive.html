@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<header class="post-header">
+  <h1 class="post-title">{{ page.title }}</h1>
+</header>
+
 {%for post in site.posts %}
     {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
     {% capture nmonth %}{{ post.next.date | date: '%m' }}{% endcapture %}
