@@ -3,3 +3,4 @@
 * decription
 * complete about page
 * add license
+* add XMPP link
