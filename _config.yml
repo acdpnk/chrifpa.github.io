@@ -7,6 +7,7 @@ url: "http://chrifpa.github.io" # the base hostname & protocol for your site
 twitter_username: chrifpa
 github_username:  chrifpa
 adn_username:     chrifpa
+link_char: "↦"
 
 # Build settings
 markdown: kramdown
