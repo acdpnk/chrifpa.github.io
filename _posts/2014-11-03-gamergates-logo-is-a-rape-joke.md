@@ -4,7 +4,7 @@ layout: post
 external_url: http://www.fastcodesign.com/3037941/the-secret-meaning-behind-gamergates-branding?
 permalink: /gamergates-logo-is-a-rape-joke
 category: link gamergate
-date: 2014-11-03 16:39
+date: 2014-11-03 16:39:42
 ---
 
 [Fast Company](http://www.fastcodesign.com/3037941/the-secret-meaning-behind-gamergates-branding?):
