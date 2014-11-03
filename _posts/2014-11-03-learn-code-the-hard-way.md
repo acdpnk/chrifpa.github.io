@@ -1,8 +1,8 @@
 ---
+title: "Learn Code the Hard Way"
 permalink: /learn-code-the-hard-way
 date: 2014-11-03 23:18
-title: Learn Code the Hard Way
-layout: post 
+layout: post
 external_url: http://cli.learncodethehardway.org/book/
 ---
 
