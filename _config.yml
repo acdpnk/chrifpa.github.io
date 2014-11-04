@@ -9,6 +9,7 @@ description: >
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://acid.pink" # the base hostname & protocol for your site
+assets: "/assets"
 twitter_username: chrifpa
 github_username:  chrifpa
 adn_username:     chrifpa
