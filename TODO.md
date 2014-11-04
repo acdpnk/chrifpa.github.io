@@ -1,6 +1,4 @@
 #TODO
-* fav- and apple-touch icons
-* decription
+* description
 * complete about page
 * add license
-* add XMPP link
