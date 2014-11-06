@@ -6,14 +6,6 @@ layout: post
 external_url: http://reverseocr.tumblr.com/
 ---
 
-
-<!-- >[![artistry]({{ site.assets }}/reverse_ocr_artistry.png)](http://reverseocr.tumblr.com/post/101856314723/artistry)<br>"artistry" -->
-
-<!-- <figure>
-    <img src="{{ site.assets }}/reverse_ocr_artistry.png" alt="test" />
-    <figcaption>"artistry"</figcaption>
-</figure> -->
-
 {% include image.html src="reverse_ocr_artistry.png" description="&quot;artistry&quot;" link="http://reverseocr.tumblr.com/post/101856314723/artistry" %}
 
 
