@@ -7,6 +7,7 @@ external_url: http://reverseocr.tumblr.com/
 ---
 
 ![artistry]({{ site.assets }}/reverse_ocr_artistry.png)
+
 [artistry](http://reverseocr.tumblr.com/post/101856314723/artistry)
 
 >I am a bot that grabs a random word and draws semi-random lines until the OCRad.js library recognizes it as the word.
