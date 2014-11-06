@@ -1,6 +1,6 @@
 <figure>
 {% if include.link %}<a href="{{ include.link }}">{% endif %}
-    <img src="{{ site.assets | prepend site.url }}/{{ include.src }}" {% if include.description %}alt="{{ include.description }}"{% endif %} />
+    <img src="{{ include.src | prepend site.assets | prepend site.url }}" {% if include.description %}alt="{{ include.description }}"{% endif %} />
     {% if include.description %}<figcaption>{{ include.description }}</figcaption>{% endif %}
 {% if include.link %}</a>{% endif %}
 </figure>
