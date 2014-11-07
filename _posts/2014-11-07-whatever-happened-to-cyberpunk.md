@@ -17,4 +17,4 @@ Ever since I started thinking of myself as a computer person, I found the idea o
 
 Overall a very interesting article. I should really give Gibson another look.
 
-[^1]: Which is really a ["futurist ideology and movement"](http://en.wikipedia.org/wiki/Transhumanism) rather than a literary genre -- also, to be honest I don't know much about it at all. All I can say is it fascinates me.
+[^1]: Which is really a ["futurist ideology and movement"](http://en.wikipedia.org/wiki/Transhumanism) rather than a literary genre -- also, to be honest I don't know much about it. All I can say is it fascinates me.
