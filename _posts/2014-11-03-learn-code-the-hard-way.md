@@ -12,4 +12,5 @@ external_url: http://cli.learncodethehardway.org/book/
 
 I distinctly remember taking my first steps on the command line. It's not easy to get into using it,  it's certainly not for everyone, but if you're interested at all, give this one a look. You might fall in love, as did I.
 
+
 Thanks, [@Fotografiona](http://twitter.com/Fotografiona/status/529349499937116160)!
