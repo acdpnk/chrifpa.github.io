@@ -1,6 +1,6 @@
 ---
 permalink: /november-9-in-german-history
-date: 2014-11-09 23:32
+date: 2014-11-09 23:34
 title: "November 9 in German history"
 layout: post
 external_url: http://en.m.wikipedia.org/wiki/November_9_in_German_history
@@ -14,4 +14,5 @@ external_url: http://en.m.wikipedia.org/wiki/November_9_in_German_history
 Because I wrote about the Fall of the Berlin Wall [earlier](http://acid.pink/on-the-25th-anniversary-of-the-fall-of-the-berlin-wall/), the other important events in German history that occurred on this date should not go unmentioned either. Especially [*Reichspogromnacht*](http://en.m.wikipedia.org/wiki/Kristallnacht)[^pogrom] should never, ever be forgotten. November 9th is not a date to wave flags and be proud of being German, as so many of the *Mauerfall*[^fall] celebrations do. There are even, today, in Germany, Nazis in the streets, spreading their thinly veiled hate.
 
 [^pogrom]: I prefer *Reichspogromnacht* to *(Reichs)kristallnacht*, because it was not about broken glass -- it was about humans being hurt, and killed, livelihoods and lives being destroyed, and it was just a taste of things to come. *Kristallnacht* sounds belittling to me.
+
 [^fall]: *Mauerfall* is German for the fall of the Berlin Wall.
