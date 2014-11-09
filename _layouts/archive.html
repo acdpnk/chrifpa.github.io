@@ -13,5 +13,5 @@ layout: page
         <br>
         <h3>{{ post.date | date: '%B %Y' }}</h3>
     {% endif %}
-    <li><time>{{ post.date | date:"%m-%d " }}</time><a href="{{ post.url }}">{{ post.title }}{% if post.external_url %}{{ site.link_char }}{% endif %}</a></li>
+    <li><time>{{ post.date | date:"%m-%d " }}</time><a href="{{ post.url }}">{% unless post.external_url %}{{ site.icon_char }}{% endunless %}{{ post.title }}{% if post.external_url %}{{ site.link_char }}{% endif %}</a></li>
 {% endfor %}

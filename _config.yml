@@ -14,6 +14,7 @@ twitter_username: chrifpa
 github_username:  chrifpa
 adn_username:     chrifpa
 link_char: " ↦"
+icon_char: "♡ "
 
 # Build settings
 markdown: kramdown
