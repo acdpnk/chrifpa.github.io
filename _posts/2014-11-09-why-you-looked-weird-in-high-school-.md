@@ -11,7 +11,7 @@ external_url: https://medium.com/the-archipelago/why-you-looked-weird-in-high-sc
 
 >I figured it couldn’t just be me, so I asked some friends if they had similar experiences. Most of us tried valiantly, as teenagers, to manage our image through clothes—and unsurprisingly, lots of us didn’t seem to know what we were doing.
 
-<br />
+>…
 
 >Even when we’re not trying to present anything, we wind up saying something. That girl with the cheap highlights may not be able to afford better ones, but she also might just like how they look, and not realize that other people consider it a marker of class. When I talked to my friends about our inept fumblings with crafting an image, one refrain kept coming up: “Nobody told me.” We may wear or do things not because we get great reactions, but because we’ve never received feedback at all.
 
