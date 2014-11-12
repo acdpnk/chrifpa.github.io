@@ -30,4 +30,4 @@ A male lead scientist wearing a sexist shirt at work would be a problem any day.
 [perfect world]: http://en.wikipedia.org/wiki/Spherical_cow
 [^STEM]: Science, Technology, Engineering, Mathematics
 [^agree]: I agree
-[^disagree]: I disagreee
+[^disagree]: I disagree
