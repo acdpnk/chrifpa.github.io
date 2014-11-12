@@ -5,4 +5,4 @@ title: "XKCD Live Reports the 67P Landing"
 layout: post
 external_url: http://xkcd.com/1446/
 ---
-{% include image.html src="http://imgs.xkcd.com/comics/???.png" description="" link="http://xkcd.com/1446/" %}
+{% include image.html external_src="http://imgs.xkcd.com/comics/%3F%3F%3F.png" description="" link="http://xkcd.com/1446/" %}
