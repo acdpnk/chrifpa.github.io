@@ -13,8 +13,8 @@ assets: "/assets/"
 twitter_username: chrifpa
 github_username:  chrifpa
 adn_username:     chrifpa
-link_char: "&nbsp;↦"
-icon_char: "♡&nbsp;"
+link_char: "&#160;↦"
+icon_char: "♡&#160;"
 
 # Build settings
 markdown: kramdown

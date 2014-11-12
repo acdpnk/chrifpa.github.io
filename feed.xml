@@ -13,7 +13,7 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:10 %}
       <item>
-        <title>{% unless post.external_url %}{{ site.icon_char |xml_escape }}{% endunless %}{{ post.title | xml_escape }}{% if post.external_url %}{{ site.link_char | xml_escape }}{% endif %}</title>
+        <title>{% unless post.external_url %}{{ site.icon_char | xml_escape }}{% endunless %}{{ post.title | xml_escape }}{% if post.external_url %}{{ site.link_char | xml_escape }}{% endif %}</title>
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         {% if post.external_url %}
