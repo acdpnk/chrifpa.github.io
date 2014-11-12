@@ -4,7 +4,7 @@ date: 2014-11-12 16:58
 title: "Churyumov–gerasimenko, We're Coming!"
 layout: post
 ---
-{% include image.html src="67p-landing-site.png" description="67P/Churyumov–Gerasimenko" link="" %}
+{% include image.html src="67p-landing-site.jpg" description="67P/Churyumov–Gerasimenko" link="" %}
 
 As I am writing this, [Philae][], [Rosetta's][] little lander, is for all intents and purposes minutes from touching down on Comet [67P][]. 67P is also known as Churyumov–Gerasimenko, which I happen to know because I memorized that name when Rosetta took of, more than ten years ago. I am so. incredibly. excited. To imagine that this little spacecraft made it's way from here to that tiny rock[^rock] some 500 million kilometers away and managed to achieve orbit is mind blowing on it's own. To think that something will land there? How awesome is that?
 
