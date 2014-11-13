@@ -4,6 +4,7 @@ date: 2014-11-06 13:59
 title: "Reverse OCR"
 layout: post
 external_url: http://reverseocr.tumblr.com/
+tags: [coding, tech]
 ---
 
 {% include image.html src="reverse_ocr_artistry.png" description="&quot;artistry&quot;" link="http://reverseocr.tumblr.com/post/101856314723/artistry" %}

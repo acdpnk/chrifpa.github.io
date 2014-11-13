@@ -4,6 +4,7 @@ date: 2014-11-06 19:30
 title: "This Is the Best Image Ever of a Planet Being Born"
 layout: post
 external_url: http://motherboard.vice.com/read/this-is-the-best-image-ever-of-planetary-formation
+tags: [science, space]
 ---
 {% include image.html src="hl-tau-planetary-formation.jpg" description="Baby Planets • Image: ALMA (NRAO/ESO/NAOJ); C. Brogan, B. Saxton (NRAO/AUI/NSF)" link="http://motherboard.vice.com/read/this-is-the-best-image-ever-of-planetary-formation" %}
 [Becky Ferreira](http://motherboard.vice.com/read/this-is-the-best-image-ever-of-planetary-formation):

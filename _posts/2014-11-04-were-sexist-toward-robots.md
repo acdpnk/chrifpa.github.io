@@ -4,6 +4,7 @@ date: 2014-11-04 11:11
 title: "We're Sexist Toward Robots"
 layout: post
 external_url: http://motherboard.vice.com/read/were-sexist-toward-robots
+tags: [feminism, tech, science]
 ---
 [Victoria Turk](http://motherboard.vice.com/read/were-sexist-toward-robots):
 

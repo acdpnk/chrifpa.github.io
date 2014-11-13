@@ -4,6 +4,7 @@ date: 2014-11-05 11:50
 title: "What Colors Were Dinosaur Feathers?"
 layout: post
 external_url: http://motherboard.vice.com/read/what-colors-were-dinosaur-feathers
+tags: [science, dinosaurs]
 ---
 [Becky Ferreira](http://motherboard.vice.com/read/what-colors-were-dinosaur-feathers):
 

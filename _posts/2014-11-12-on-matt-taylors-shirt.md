@@ -3,6 +3,7 @@ permalink: /2014-11-12-on-matt-taylors-shirt
 date: 2014-11-12 23:38
 title: "On Matt Taylor's Shirt…"
 layout: post
+tags: [science, space, feminism, politics, tech]
 ---
 ### …And Why I Think It's a Problem
 

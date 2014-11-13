@@ -3,6 +3,7 @@ permalink: /on-the-25th-anniversary-of-the-fall-of-the-berlin-wall
 date: 2014-11-09 20:14
 title: "On the 25th Anniversary of the Fall of the Berlin Wall"
 layout: post
+tags: [politics, me]
 ---
 I'm old enough to potentially remember the fall of the Berlin Wall, but I don't. My younger brother once told me he remembers "Trabbi Day", the day the first wave of [Trabbis](http://en.m.wikipedia.org/wiki/Trabbi) -- the characteristic baby blue East German plastic cars -- showed up in our street, but I don't remember that either. In fact, I don't remember the iron curtain at all. What I *do* remember is its *absence*.
 

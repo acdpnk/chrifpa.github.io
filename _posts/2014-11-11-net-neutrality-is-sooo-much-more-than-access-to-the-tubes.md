@@ -4,6 +4,7 @@ date: 2014-11-11 22:44
 title: "Net Neutrality Is Sooo Much More Than Access to the “Tubes”…"
 layout: post
 external_url: https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220
+tags: [tech, politics]
 ---
 [Danah Boyd](https://medium.com/message/net-neutrality-is-sooo-much-more-than-access-to-the-tubes-2344b1e9f220):
 

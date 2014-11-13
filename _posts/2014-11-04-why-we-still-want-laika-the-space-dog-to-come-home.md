@@ -4,6 +4,7 @@ date: 2014-11-04 23:05
 title: "​Why We Still Want Laika the Space Dog to Come Home"
 layout: post
 external_url: http://motherboard.vice.com/read/why-we-still-want-laika-the-space-dog-to-come-home
+tags: [space]
 ---
 [Becky Ferreira](http://motherboard.vice.com/read/why-we-still-want-laika-the-space-dog-to-come-home):
 

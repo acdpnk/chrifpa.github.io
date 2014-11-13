@@ -4,6 +4,7 @@ date: 2014-11-10 23:10
 title: "Matrioshka Brain"
 layout: post
 external_url: http://en.m.wikipedia.org/wiki/Matrioshka_brain
+tags: [science, tech, space]
 ---
 [Wikipedia](http://en.m.wikipedia.org/wiki/Matrioshka_brain):
 

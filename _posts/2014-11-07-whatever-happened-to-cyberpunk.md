@@ -4,6 +4,7 @@ date: 2014-11-07 16:29
 title: "Whatever Happened To Cyberpunk?"
 layout: post
 external_url: http://www.theguardian.com/books/booksblog/2014/nov/07/cyberpunk-william-gibson
+tags: [cyberpunk, transhumanism, me, culture]
 ---
 [Damien Walter](http://www.theguardian.com/books/booksblog/2014/nov/07/cyberpunk-william-gibson):
 

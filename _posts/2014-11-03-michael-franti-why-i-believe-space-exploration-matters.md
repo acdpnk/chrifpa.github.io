@@ -4,6 +4,7 @@ date: 2014-11-03 23:34:42
 title: "Michael Franti: Why I believe space exploration matters"
 layout: post
 external_url: http://boingboing.net/2014/11/03/why-i-believe-space-exploratio.html
+tags: [space, science]
 ---
 [Michael](http://boingboing.net/2014/11/03/why-i-believe-space-exploratio.html):
 

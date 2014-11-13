@@ -3,6 +3,7 @@ permalink: /2014-11-12-churyumovgerasimenko-were-coming
 date: 2014-11-12 16:58
 title: "Churyumov–gerasimenko, We're Coming!"
 layout: post
+tags: [science, space]
 ---
 {% include image.html src="67p-landing-site.jpg" description="67P/Churyumov–Gerasimenko" link="" %}
 

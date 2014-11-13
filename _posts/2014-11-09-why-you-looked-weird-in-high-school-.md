@@ -4,6 +4,7 @@ date: 2014-11-09 22:55
 title: "Why You Looked Weird in High School "
 layout: post
 external_url: https://medium.com/the-archipelago/why-you-looked-weird-in-high-school-e9293ad795ec
+tags: [me, culture]
 ---
 [Jaya Saxena](https://medium.com/the-archipelago/why-you-looked-weird-in-high-school-e9293ad795ec):
 

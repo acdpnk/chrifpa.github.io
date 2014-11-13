@@ -3,6 +3,7 @@ permalink: /about-learning-to-code
 date: 2014-11-07 14:20
 title: "About Learning To Code"
 layout: post
+tags: [me, coding, meta]
 ---
 I just added the link to this site to my social media bios, to my surprise finding the space occupied by my old tumblr[^1]. Scrolling through the pages, I found a post lamenting the fact that, at that time, I really wanted to learn how to code, but I really did not know how to get started. The date on that article is 2012-02-26. I don't exactly remember how or when I found that starting point I was so desperately looking for, but there's a post from september of that year indicating that I had started getting my feet wet. So it's been probably a little less than 2½ years since I wrote my first real code[^2].
 
