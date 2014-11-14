@@ -26,9 +26,14 @@ A male lead scientist wearing a sexist shirt at work would be a problem any day.
 
 
 
+**Update**: He [apologized][].
+
+
 [Philea Landing]: http://acid.pink/2014-11-12-churyumovgerasimenko-were-coming/
 [Matt Taylor]: http://www.independent.co.uk/news/science/dr-matt-taylor-the-tattooed-rosetta-project-scientist-who-took-twitter-by-storm-9856820.html
 [perfect world]: http://en.wikipedia.org/wiki/Spherical_cow
 [^STEM]: Science, Technology, Engineering, Mathematics
 [^agree]: I agree
 [^disagree]: I disagree
+
+[apologized]: http://acid.pink/2014-11-14-matt-taylor-apologizes/
