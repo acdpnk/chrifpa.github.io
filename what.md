@@ -12,10 +12,20 @@ I also hope to write stuff here. Same as for links:
 
 Problem → [Mail][]
 
-This site does not have comments. That is intentional. Comments are [evil][][^almost] -- if you want to talk to me about something I wrote, you can contact me in any number of ways[^social]. Or post something somewhere else on the internet. If I think it benefits the conversation, I'll be happy to link it.
+This site does not have comments. That is intentional. Comments are [<strike>evil</strike>][evil] not always helpful -- if you want to talk to me about something I wrote, you can contact me in any number of ways[^social]. If you like what I do, I'd love to hear from you. If I fucked up somehow, I very much want to know about that, too.
+
+You can also post something somewhere else on the internet -- if I think it benefits the conversation, I'll be happy to link it.
+
+<hr style="margin:50px" />
+
+### Impressum
+
+Christian F Panzier<br />
+Varrelmannstr. 6<br />
+30453 Hannover<br />
+Germany
 
 
 [mail]: mailto:{{ site.email }}
 [evil]: https://twitter.com/AvoidComments
-[^almost]: well, not all com[men](http://www.listen-tome.com/save-me/)ts
 [^social]: see below
