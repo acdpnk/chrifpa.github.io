@@ -1,7 +1,7 @@
 ---
 permalink: /2014-11-12-churyumovgerasimenko-were-coming
 date: 2014-11-12 16:58
-title: "Churyumov–gerasimenko, We're Coming!"
+title: "Churyumov–Gerasimenko, We're Coming!"
 layout: post
 tags: [science, space]
 ---
