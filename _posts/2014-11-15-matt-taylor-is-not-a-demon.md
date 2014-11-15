@@ -1,6 +1,6 @@
 ---
 permalink: /2014-11-15-matt-taylor-is-not-a-demon
-date: 2014-11-15 22:16
+date: 2014-11-15 19:43
 title: "Matt Taylor Is Not a Demon"
 layout: post
 tags: politics feminism
