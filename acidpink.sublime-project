@@ -16,7 +16,7 @@
             "selector": "text.html.markdown",
             "variants": [
                 {
-                    "name": "Publish",
+                    "name": "Run",
                     "cmd": ["/Users/chrifpa/.scrpt/apub"]
                 }
             ]
