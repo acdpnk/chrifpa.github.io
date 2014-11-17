@@ -7,5 +7,20 @@
             "folder_exclude_patterns": [".sass-cache"],
             "file_exclude_patterns": [".atom-build.json"]
 		}
-	]
+	],
+    "build_systems":
+    [
+        {
+            "name": "ACIDPINK - Preview",
+            "cmd": ["/usr/local/bin/python3", "/Users/chrifpa/.scrpt/apfinalize.py", "$file"],
+            "selector": "text.html.markdown",
+            "variants": [
+                {
+                    "name": "Publish",
+                    "cmd": ["/Users/chrifpa/.scrpt/apub"]
+                }
+            ]
+        }
+
+    ]
 }
