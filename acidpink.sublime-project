@@ -16,7 +16,7 @@
             "variants": [
                 {
                     "name": "Run",
-                    "cmd": ["/Users/chrifpa/.scrpt/apub", "$file"]
+                    "cmd": ["/Users/chrifpa/.scrpt/apub", "$project_path"]
                 }
             ]
         }
