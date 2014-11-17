@@ -11,9 +11,8 @@
     "build_systems":
     [
         {
-            "name": "ACIDPINK - Preview",
+            "name": "ACIDPINK",
             "cmd": ["/usr/local/bin/python3", "/Users/chrifpa/.scrpt/apfinalize.py", "$file"],
-            "selector": "text.html.markdown",
             "variants": [
                 {
                     "name": "Run",
