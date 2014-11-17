@@ -12,7 +12,8 @@
     [
         {
             "name": "ACIDPINK",
-            "cmd": ["/usr/local/bin/python3", "/Users/chrifpa/.scrpt/apfinalize.py", "$file"],
+            "working_dir": "$project_path",
+            "cmd": ["/usr/local/bin/python3", "/Users/chrifpa/.scrpt/apfinalize.py", "$file", "&& jekyll serve"],
             "variants": [
                 {
                     "name": "Run",
