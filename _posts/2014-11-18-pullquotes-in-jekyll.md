@@ -57,7 +57,7 @@ to my ```_includes``` as ```pullquote.html```. Now, instead of the ugly HTML mar
 
 …which also saves me from writing the pullquote text twice (*the Horror!*).
 
-{% include pullquote.html quote="I'm really new at CSS" %}
+{% include pullquote.html quote="I didn't find a better way – I'm really new at CSS" %}
 Sadly, this had the downside of messing with the layout too much. First of all it doesn't work with ```<p></p>``` tags, because you can't nest them. A ```<span></span>``` is fine, though, but I still couldn't figure out a way to get the layout right -- the quotes would sit at the exact same height has the text they were pulled from, which looks stupid and kind of defeats the purpose. I didn't find a way to push them up without text overlapping, and if I had there would be no good way to align them. At least I didn't find one -- I'm really new at CSS.
 
 At this point, all that was left of my glorious plan was that I could use one kind of markup instead of another one -- and worst of all -- I still had the duplicate text.
