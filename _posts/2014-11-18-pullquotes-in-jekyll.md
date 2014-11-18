@@ -13,7 +13,7 @@ You know [pullquotes][] -- all the cool blogs have them. As far as I know, all t
 
 Some googling quickly turned up [previous art by Andy Taylor][]. Unfortunately it required HTML markup. I write my posts in [Markdown][], which is way cleaner and more flexible than HTML, but also a lot less powerful. In principle there is nothing keeping me from writing my pullquotes like Andy does:
 {% highlight html %}
-<p data-pullquote="&quot;a pullquote&quot;"></p>
+<p data-pullquote="a pullquote"></p>
 {% endhighlight %}
 
 There's nothing wrong with this approach, but I didn't really feel comfortable with it. Polluting my Markdown files with HTML ```<ugly><\ugly>``` tags somehow didn't feel right. Also, this technique would require me to write the pullquote text *twice*. Not acceptable. So here's what I did.
@@ -43,7 +43,7 @@ Also I added this little snippet:
 
 {% highlight html %}
 {% raw %}
-{{ include.quote }}<p data-pullquote="&quot;{{ include.quote }}&quot;"></p>
+{{ include.quote }}<p data-pullquote="{{ include.quote }}"></p>
 {% endraw %}
 {% endhighlight %}
 
