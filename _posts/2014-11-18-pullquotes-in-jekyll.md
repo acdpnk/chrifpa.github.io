@@ -96,7 +96,8 @@ and what my preprocessor made of it:
 {% highlight html %}
 {% raw %}
 {% include pullquote.html quote="all the cool blogs have them" %}
-You know [pullquotes][] -- all the cool blogs have them. As far as I know, all the bigger blogging platforms give you some sort of tool to include
+You know [pullquotes][] -- all the cool blogs have them. As far as I know,
+all the bigger blogging platforms give you some sort of tool to include
 them. WordPress probably has a gazillion different plugins for pullquotes. The
 "platform" I am using, [Jekyll][], has a plugin system just like
 WordPress[^1], but my setup doesn't allow for plugins[^ghp].
@@ -107,6 +108,8 @@ WordPress[^1], but my setup doesn't allow for plugins[^ghp].
 [Jekyll]: http://jekyllrb.com/
 {% endraw %}
 {% endhighlight %}
+
+{% include pullquote.html quote="I really like what I made today" %}
 
 Now (as long as I don't try to write about pullquotes), I have a very nice way to include this fancy little piece of text styling. The way I have it set up now has the added benefit of giving me the option to move the pullquote around, or slightly rephrase it should that be appropriate. Also, should I move to a setup that lets me include plugins, I can use (or write) one and keep using the exact same syntax I am using now.
 
