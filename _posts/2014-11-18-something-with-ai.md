@@ -1,11 +1,10 @@
 ---
 permalink: /2014-11-18-something-with-ai
-date: 2014-11-18 12:47
+date: 2014-11-18 13:08
 title: "Something With AI"
 layout: post
 tags: tech science politics
 ---
-
 
 
 AI, short for Artificial Intelligence, is a very emotionally charged topic these days. In may, super-genius extraordinaire [Stephen Hawking][] wrote an [article][] for the Independent, warning:
