@@ -115,6 +115,9 @@ Now (as long as I don't try to write about pullquotes), I have a very nice way t
 
 It's not that big a deal, but I really like what I made today.
 
+### UPDATE:
+I have since fiddled with the details.
+
 [^1]: not at all like WordPress, but with the same intent.
 [^ghp]: This site is hosted on [GitHub Pages](https://pages.github.com/)
 [pullquotes]: http://en.wikipedia.org/wiki/Pull_quote
