@@ -16,7 +16,7 @@ Some googling quickly turned up [previous art by Andy Taylor][]. Unfortunately i
 <p data-pullquote="a pullquote"></p>
 {% endhighlight %}
 
-There's nothing wrong with this approach, but I didn't really feel comfortable with it. Polluting my Markdown files with HTML ```<ugly><\ugly>``` tags somehow didn't feel right. Also, this technique would require me to write the pullquote text *twice*. Not acceptable. So here's what I did.
+There's nothing wrong with this approach, but I didn't really feel comfortable with it. Polluting my Markdown files with HTML ```<ugly></ugly>``` tags somehow didn't feel right. Also, this technique would require me to write the pullquote text *twice*. Not acceptable. So here's what I did.
 
 The CSS for my pullquotes, as per Andy's technique, looks like this:
 {% highlight css %}
