@@ -1,4 +1,4 @@
 #TODO
 * description
-* complete about page
 * add license
+* fix footnotes on frontpage
