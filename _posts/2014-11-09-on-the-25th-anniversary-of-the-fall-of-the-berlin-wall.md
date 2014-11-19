@@ -7,6 +7,8 @@ tags: [politics, me]
 ---
 I'm old enough to potentially remember the fall of the Berlin Wall, but I don't. My younger brother once told me he remembers "Trabbi Day", the day the first wave of [Trabbis](http://en.m.wikipedia.org/wiki/Trabbi) -- the characteristic baby blue East German plastic cars -- showed up in our street, but I don't remember that either. In fact, I don't remember the iron curtain at all. What I *do* remember is its *absence*.
 
+<!-- break -->
+
 At first, it was strange. In elementary school, although the GDR was gone by then, all of our maps as well as my treasured children's atlas showed Germany one way:
 {% include image.html src="deutsche-teilung.png" description="Inner German Border, by Alexrk2 [CC-BY-SA-3.0], via Wikimedia Commons" link="http://commons.wikimedia.org/wiki/File:Karte_Innerdeutsche_Grenze.png" %}
 
