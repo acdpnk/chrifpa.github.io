@@ -4,7 +4,7 @@ date: 2014-11-09 23:34
 title: "November 9 in German history"
 layout: post
 external_url: http://en.m.wikipedia.org/wiki/November_9_in_German_history
-tags: [politics]
+tags: politics
 ---
 [Wikipedia](http://en.m.wikipedia.org/wiki/November_9_in_German_history):
 

@@ -4,7 +4,7 @@ date: 2014-11-08 19:33
 title: "Our Own Private Germany"
 layout: post
 external_url: https://medium.com/matter/our-own-private-germany-6ce44ac93a7b
-tags: [politics]
+tags: politics
 ---
 [Ole Schulz](https://medium.com/matter/our-own-private-germany-6ce44ac93a7b):
 
