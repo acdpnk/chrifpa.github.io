@@ -15,6 +15,7 @@ github_username:  chrifpa
 adn_username:     chrifpa
 link_char: "&#160;↦"
 icon_char: "♡&#160;"
+excerpt_separator: "<!-- break -->"
 
 # Build settings
 markdown: kramdown

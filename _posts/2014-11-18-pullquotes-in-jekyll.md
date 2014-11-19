@@ -11,6 +11,8 @@ Because I spent too much time today hacking pullquotes into my Jekyll setup, thi
 {% include pullquote.html quote="all the cool blogs have them" %}
 You know [pullquotes][] -- all the cool blogs have them. As far as I know, all the bigger blogging platforms give you some sort of tool to include them. WordPress probably has a gazillion different plugins for pullquotes. The "platform" I am using, [Jekyll][], has a plugin system just like WordPress[^1], but my setup doesn't allow for plugins[^ghp]. So I decided to make my own.
 
+<!-- break -->
+
 Some googling quickly turned up [previous art by Andy Taylor][]. Unfortunately it required HTML markup. I write my posts in [Markdown][], which is way cleaner and more flexible than HTML, but also a lot less powerful. In principle there is nothing keeping me from writing my pullquotes like Andy does:
 {% highlight html %}
 <p data-pullquote="a pullquote"></p>
