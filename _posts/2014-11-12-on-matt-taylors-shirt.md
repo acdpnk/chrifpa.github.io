@@ -12,6 +12,8 @@ During today's [Philea Landing][], Project Scientist [Matt Taylor][] appeared in
 
 I think that it was not ok for him to wear that shirt, and I want to try to explain why. But before I do so, let me make one thing clear: This is not an attack on Matt Taylor's person. For all I know he's a nice guy. I do *not* think he meant to be offensive -- and that's exactly why I think he needs to be called out.
 
+<!-- break -->
+
 ### What You Mean to Say and What You Say…
 
 …are not necessarily the same. I don't think Mr. Taylor meant to say anything with his shirt other that what an awesome and cool dude he is, and how much he doesn't give a fuck about dresscodes and putting more conservative people off. And maybe, in a [perfect world][], that would have been what he actually had said. But it's not that easy. The world we actually live in is one where women are routinely discriminated against, *especially* in male dominated fields such as everything STEM[^STEM]. And in this world a lead scientist on a stage with semi-nude women on his shirt says something different. Where women are already constantly objectified and attacked based on their sexuality, a display of sexualized women is not a neutral statement -- it is reinforcing the diregard of women as people.
