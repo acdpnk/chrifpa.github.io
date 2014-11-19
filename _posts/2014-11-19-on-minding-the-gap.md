@@ -18,4 +18,4 @@ Yesterday's post could certainly have been better, but that's not the point. It'
 
 {% include video.html src="//player.vimeo.com/video/24715531" %}
 
-I think my worst posts are already written, but the good ones are still to come. In the meantime I plan to busy myself with the mediocre ones.
+I think my worst posts are already written, but the good ones are still to come. In the meantime I plan to keep myself busy with the mediocre ones.
