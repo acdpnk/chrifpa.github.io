@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
+<article>
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
@@ -31,6 +31,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+</article>
 
   <nav class="pagination">
   {% if paginator.next_page %}
