@@ -291,3 +291,7 @@ p[data-pullquote]:before {
   color: $brand-color;
   text-align: center;
 }
+
+div.excerpt div.footnotes {
+  display: none;
+}
