@@ -6,6 +6,8 @@ permalink: /about/
 
 ### Welcome to my Sandbox
 
+If you are so inclined, you can find the [source on GitHub][].
+
 I link stuff here. Since I can not possibly keep track of every page I link to, I do not take responsibility for what is on these pages. If there is a problem, please [contact][mail] me.
 
 I also hope to write stuff here. Same as for links:
@@ -29,3 +31,5 @@ Germany
 [mail]: mailto:{{ site.email }}
 [evil]: https://twitter.com/AvoidComments
 [^social]: see below
+[source on GitHub]: https://github.com/chrifpa/chrifpa.github.io
+
