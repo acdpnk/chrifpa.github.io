@@ -21,7 +21,6 @@ excerpt_separator: "<!-- break -->"
 markdown: kramdown
 paginate: 10
 paginate_path: "page:num"
-# lsi: true
 future: false
 
 exclude: ["acidpink.sublime-project", "README.md", "TODO.md"]
