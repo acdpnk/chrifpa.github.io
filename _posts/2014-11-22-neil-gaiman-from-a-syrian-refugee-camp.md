@@ -6,3 +6,4 @@ layout: post
 external_url: http://youtu.be/rIolTbJ_K5U
 ---
 {% include video.html src="//www.youtube.com/embed/rIolTbJ_K5U" %}
+
