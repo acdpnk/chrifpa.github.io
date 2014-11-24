@@ -296,7 +296,14 @@ div.excerpt div.footnotes {
   display: none;
 }
 
-blockquote span.source {
+blockquote.pretty {
+
+    margin-bottom: $spacing-unit;
+    font-size: 1.1em;
+
+    span.source {
     float: right;
+    margin-top: 0.5em;
     margin-right: 15%;
+    }
 }
