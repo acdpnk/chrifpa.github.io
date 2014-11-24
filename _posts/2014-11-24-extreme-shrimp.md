@@ -10,3 +10,4 @@ external_url: http://boingboing.net/2014/11/21/europa-extreme-shrimp-and-th.html
 ---
 
 {% include video.html src="//www.youtube.com/embed/Ifrh9FZUSdE" %}
+
