@@ -295,3 +295,8 @@ p[data-pullquote]:before {
 div.excerpt div.footnotes {
   display: none;
 }
+
+blockquote span.source {
+    float: right;
+    margin-right: 15%;
+}
