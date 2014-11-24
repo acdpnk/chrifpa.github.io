@@ -1,7 +1,7 @@
 ---
 permalink: /2014-11-24-europa
 date: 2014-11-24 21:15
-title: "Extreme Shrimp"
+title: "Europa"
 layout: post
 published: True
 categories: 
