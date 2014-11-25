@@ -1,7 +1,7 @@
 ---
-permalink: /2014-11-25-drones-are-for-the-rich--motherboard
+permalink: /2014-11-25-drones-are-for-the-rich
 date: 2014-11-25 12:42
-title: "Drones Are For the Rich | Motherboard"
+title: "Drones Are For the Rich"
 layout: post
 external_url: http://motherboard.vice.com/read/drones-are-for-the-rich
 tags: tech politics
