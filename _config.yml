@@ -3,7 +3,7 @@ title: ACIDPINK
 feed_title: ACIDPINK
 email: chrifpa@gmail.com
 xmpp: chrifpa@jabber.ccc.de
-description: "chrifpa's sandbox. I write about whatever strikes my fancy. Things strinking my fancy include: tech, space, (queer)feminism, politics, the&#160;future, science, hacking, apple, FreeBSD"
+description: "I write about whatever strikes my fancy. Things strinking my fancy include: tech, space, (queer)feminism, politics, the&#160;future, science, hacking, apple, FreeBSD"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://acid.pink" # the base hostname & protocol for your site
 assets: "/assets/"
