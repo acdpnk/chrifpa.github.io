@@ -1,5 +1,5 @@
 ---
-permalink: /2014-11-26-tech-dudes-take-credit-for-female-scientists-work-plan-to-quothackquot-vaginas-so-they-smell-like-peaches
+permalink: /2014-11-26-tech-dudes-take-credit-for-female-scientists-work-plan-to-hack-vaginas-so-they-smell-like-peaches
 date: 2014-11-26 22:29
 title: "Tech Dudes Take Credit For Female Scientist’s Work; Plan To &quot;Hack&quot; Vaginas So They Smell Like Peaches"
 layout: post

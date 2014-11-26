@@ -291,6 +291,10 @@ p[data-pullquote]:before {
   color: $brand-color;
   text-align: center;
 }
+p.pull-left[data-pullquote]:before {
+  float: left;
+  margin: $spacing-unit 30px $spacing-unit 0;
+}
 
 div.excerpt div.footnotes {
   display: none;
