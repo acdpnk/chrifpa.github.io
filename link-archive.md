@@ -1,9 +1,8 @@
 ---
 layout: archive
 external: true
-original: true
 title: Archive
-permalink: /archive/
+permalink: /link-archive/
 ---
 
-archive
+archive (links only)

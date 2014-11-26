@@ -6,6 +6,12 @@ layout: page
   <h1 class="post-title">{{ page.title }}</h1>
 </header>
 
+<div class="archive-nav">
+    <a class="archive-link" href="/archive">[ ♡ &amp; ↦ ]</a>
+    <a class="archive-link" href="/originals-archive">[ ♡ ]</a>
+    <a class="archive-link" href="/link-archive">[ ↦ ]</a>
+</div>
+
 {%for post in site.posts %}
     {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
     {% capture nmonth %}{{ post.next.date | date: '%m' }}{% endcapture %}
@@ -13,5 +19,9 @@ layout: page
         <br>
         <h3>{{ post.date | date: '%B %Y' }}</h3>
     {% endif %}
-    <li><time>{{ post.date | date:"%m-%d " }}</time><a href="{{ post.url }}">{% unless post.external_url %}{{ site.icon_char }}{% endunless %}{{ post.title }}{% if post.external_url %}{{ site.link_char }}{% endif %}</a></li>
+    {% if page.external and post.external_url %}
+    <li><time>{{ post.date | date:"%m-%d " }}</time><a href="{{ post.url }}">{{ post.title }}{{ site.link_char }}</a>
+    {% elsif page.original and post.external_url == null %}
+    <li><time>{{ post.date | date:"%m-%d " }}</time><a href="{{ post.url }}">{{ site.icon_char }}{{ post.title }}</a>
+    {% endif %}
 {% endfor %}
