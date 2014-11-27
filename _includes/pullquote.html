@@ -1,1 +1,7 @@
-<p {% if include.left %}class="pull-left"{% endif %} data-pullquote="{{ include.quote }}"></p>
+<p class="
+    {% if include.left == null and include.right == null %}
+        {% cycle '', 'pull-left' %}
+    {% elsif include.left %}
+        pull-left
+    {% endif %}"
+ data-pullquote="{{ include.quote }}"></p>
