@@ -320,3 +320,8 @@ blockquote.pretty {
         margin-left: 20px;
     }
 }
+
+a.external-source {
+    float: right;
+    margin-right: $spacing-unit;
+}

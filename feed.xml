@@ -14,7 +14,10 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         <title>{% unless post.external_url %}{{ site.icon_char | xml_escape }}{% endunless %}{{ post.title | xml_escape }}{% if post.external_url %}{{ site.link_char | xml_escape }}{% endif %}</title>
-        <description>{{ post.content | xml_escape }}</description>
+        <description>
+            {{ post.content | xml_escape }}
+            &lt;a href=&quot;{{ post.url | xml_escape }}&quot;&gt;{{ site.icon_char | remove:'&#160;' | xml_escape }}&lt;/a&gt;
+        </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         {% if post.external_url %}
             <link>{{ post.external_url }}</link>
