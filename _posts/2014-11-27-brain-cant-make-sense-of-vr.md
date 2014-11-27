@@ -2,6 +2,7 @@
 permalink: /2014-11-27-brain-cant-make-sense-of-vr
 date: 2014-11-27 21:29title: "Why the Brain Can’t Make Sense of Virtual Reality"
 layout: post
+date: 2014-11-27 21:32:15
 external_url: http://motherboard.vice.com/read/why-the-brain-cant-make-sense-of-virtual-reality
 ---
 
