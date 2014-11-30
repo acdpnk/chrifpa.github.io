@@ -4,6 +4,7 @@ permalink: /2014-11-29-postcard-to-the-stars
 title: "40 Years Ago, Earth Beamed Its First Postcard to the Stars"
 layout: post
 external_url: http://phenomena.nationalgeographic.com/2014/11/28/40-years-ago-earth-beamed-its-first-postcard-to-the-stars/
+tags: space science
 ---
 
 Nadia Drake:

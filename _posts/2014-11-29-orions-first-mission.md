@@ -4,6 +4,7 @@ permalink: /2014-11-29-orions-first-mission
 title: "Orion's First Mission"
 layout: post
 external_url: http://www.ulalaunch.com/delta-iv-heavy-to-launch-orions-first-flight.aspx
+tags: space science
 ---
 
 >**Rocket/Payload**: A Delta IV Heavy will launch the Exploration Flight Test (EFT-1) mission for NASA, the first flight of the Orion Spacecraft.

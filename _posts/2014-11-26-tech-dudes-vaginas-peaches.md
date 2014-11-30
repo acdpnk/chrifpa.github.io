@@ -4,6 +4,7 @@ date: 2014-11-26 22:29
 title: "Tech Dudes Take Credit For Female Scientist’s Work; Plan To &quot;Hack&quot; Vaginas So They Smell Like Peaches"
 layout: post
 external_url: http://www.themarysue.com/vagina-peach-tech/
+tags: feminism
 ---
 [Carolyn Cox](http://www.themarysue.com/vagina-peach-tech/):
 
