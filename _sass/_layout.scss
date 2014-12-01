@@ -312,16 +312,42 @@ blockquote.pretty {
     }
 }
 
-.archive-nav .archive-link {
-    line-height: $base-line-height;
-
-    // Gaps between nav items, but not on the first one
-    &:not(:first-child) {
-        margin-left: 20px;
-    }
+.archive-title {
+    margin-left: 20px;
 }
 
+.archive-nav {
+    margin-left: 20px;
+
+    .archive-link {
+        line-height: $base-line-height;
+
+        // Gaps between nav items, but not on the first one
+        &:not(:first-child) {
+            margin-left: 20px;
+        }
+    }
+}
 a.external-source {
     float: right;
     margin-right: $spacing-unit;
+}
+
+.archive-list {
+    h3 {
+        margin-left: 20px;
+    }
+    li {
+        list-style: none;
+        line-height: 1em;;
+        margin: 0.3em 0;
+        a {
+            margin-left: 3.2em;
+            display: block;
+        }
+    }
+    time {
+        display: float;
+        float: left;
+    }
 }
