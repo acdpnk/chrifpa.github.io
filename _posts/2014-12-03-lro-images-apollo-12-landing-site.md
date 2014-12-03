@@ -1,5 +1,5 @@
 ---
-permalink: /2014-12-03-lro-images-apollo-12-landing-site
+permalink: /2014-12-03-lro-apollo-12
 date: 2014-12-03 15:14
 title: "LRO Images Apollo 12 Landing Site"
 layout: post
