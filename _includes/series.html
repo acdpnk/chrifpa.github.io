@@ -1,12 +1,14 @@
 {% if page.series or post.series %}
   {% assign i = 1 %}
-  {% for psot in site.posts %}
+  {% for psot in site.posts reversed %}
     {% if psot.series == page.series or psot.series == post.series %}
       {% unless psot.permalink == page.permalink or psot.permalink == post.permalink or psot.series == null %}
         <span>Part {{ i }}: <a href="{{ psot.permalink }}">{{ psot.title }}</a>
         <br /></ span>
       {% endunless %}
-      {% assign i = i | plus: 1 %}
+      {% unless psot.series == null %}
+        {% assign i = i | plus: 1 %}
+      {% endunless %}
     {% endif %}
   {% endfor %}
 {% endif %}
