@@ -195,6 +195,10 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+
+    .series-part {
+        font-weight: bolder;
+    }
 }
 
 .post-title {
