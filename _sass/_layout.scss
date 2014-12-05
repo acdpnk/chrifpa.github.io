@@ -195,10 +195,6 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
-
-    .series-part {
-        font-weight: bolder;
-    }
 }
 
 .post-title {
@@ -353,5 +349,11 @@ a.external-source {
     time {
         display: float;
         float: left;
+    }
+}
+
+.series-link {
+    .series-part {
+        font-weight: bolder;
     }
 }
