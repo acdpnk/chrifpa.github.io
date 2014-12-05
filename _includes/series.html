@@ -1,0 +1,16 @@
+{% if page.series or post.series %}
+  {% assign i = 1 %}
+  {% for psot in site.posts %}
+    {% if psot.series == page.series or psot.series == post.series %}
+      {% unless psot.permalink == page.permalink or psot.permalink == post.permalink or psot.series == null %}
+        <span>Part {{ i }}: <a href="{{ psot.permalink }}">{{ psot.title }}</a>
+        <br /></ span>
+      {% endunless %}
+      {% assign i = i | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% comment %}
+I'm sorry this is so ugly - it has to work both in _includes/post.html and /index.hmtl, that's where the post variable comes from.
+{% endcomment %}
