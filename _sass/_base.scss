@@ -125,6 +125,10 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+
+    p em {
+        font-style: normal;
+    }
 }
 
 

@@ -13,4 +13,4 @@ David Auerbach:
 
 >...
 
->I am not exaggerating when I say it is the closest thing to Kafka’s **The Trial** I have ever witnessed [...]
+>I am not exaggerating when I say it is the closest thing to Kafka’s *The Trial* I have ever witnessed [...]
