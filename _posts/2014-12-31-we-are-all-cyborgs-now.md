@@ -7,4 +7,4 @@ tags: tech
 external_url: http://www.ted.com/talks/amber_case_we_are_all_cyborgs_now
 ---
 
-{% include video.html src="https://embed-ssl.ted.com/talks/amber_case_we_are_all_cyborgs_now.html" ratio="1.78" %}
+{% include video.html src="https://embed-ssl.ted.com/talks/amber_case_we_are_all_cyborgs_now.html" %}
