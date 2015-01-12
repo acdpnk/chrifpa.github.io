@@ -5,6 +5,7 @@ layout: post
 title: "Us, Connected"
 published: True
 tags: net
+external_url: http://www.cluetrain.com/newclues/
 ---
 
 >The Net's super-power is connection without permission. Its almighty power is that we can make of it whatever we want.
