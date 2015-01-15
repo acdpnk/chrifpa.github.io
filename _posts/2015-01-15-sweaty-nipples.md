@@ -1,7 +1,7 @@
 ---
 permalink: /2015-01-15-sweaty-nipples
-date: 2015-01-15 14:11
-title: "The curious case of the sweaty nipples"
+date: 2015-01-15 14:14
+title: "The Curious Case of the Sweaty Nipples"
 external_url: http://boingboing.net/2015/01/15/the-curious-case-of-the-sweaty.html
 layout: post
 tags: 
