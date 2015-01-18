@@ -1,5 +1,5 @@
 ---
-permalink: /2015-01-18-dieter-rams-and-jony-ive-on-design
+permalink: /2015-01-18-good-design
 date: 2015-01-18 18:12
 layout: post
 title: "Dieter Rams and Jony Ive On Design"
