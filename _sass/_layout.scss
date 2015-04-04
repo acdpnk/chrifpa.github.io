@@ -8,14 +8,24 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    
 }
 
 .site-title {
+    font-family: Raleway;
     font-size: 3em;
     line-height: 3.5em;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    
+    .title-acid {
+        font-weight: 400;
+        color: $pink-color;
+    }
+    .title-pink {
+        font-weight: 200;
+    }
 
     &,
     &:visited {
