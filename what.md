@@ -34,4 +34,4 @@ Germany
 [evil]: https://twitter.com/AvoidComments
 [^social]: see below
 [source on GitHub]: https://github.com/chrifpa/chrifpa.github.io
-[appeal] {{ site.baseurl }}/appeal/
+[appeal]: {{ site.baseurl }}/appeal/
