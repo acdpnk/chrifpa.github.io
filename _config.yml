@@ -20,3 +20,11 @@ paginate: 10
 paginate_path: "page:num"
 
 exclude: ["acidpink.sublime-project", "README.md", "TODO.md"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:year-:month-:day-:title/
+      layout: post
