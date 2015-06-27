@@ -8,7 +8,7 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
-    
+
 }
 
 .site-title {
@@ -18,13 +18,25 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    
+
     .title-acid {
         font-weight: 400;
         color: $pink-color;
     }
     .title-pink {
         font-weight: 200;
+    }
+
+    .icon {
+        > svg {
+            display: inline-block;
+            width: auto;
+            height: 1em;
+            margin-right: -$spacing-unit * 0.8;
+            path {
+                fill: $pink-color;
+            }
+        }
     }
 
     &,
