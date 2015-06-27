@@ -5,6 +5,6 @@ tags:
 external_url: http://www.theguardian.com/society/2015/jun/26/gay-marriage-legal-supreme-court
 ---
 
-{% include image.html src="rainbowflag.jpg" }
+{% include image.html src="rainbowflag.png" }
 
 Yes, I know it's more complicated than that.
