@@ -11,4 +11,4 @@ Regarding the question of how to explain a gap in employment due to a medical co
 
 >If you do not divulge unnecessary information, the hiring manager will not have the opportunity to exercise bias.
 
-As a rule I tend to be very open about my history, but I do wonder what the best way to handle it it in interview would be. It never occurred to me hat maybe the hiring manager themself isn't all too keen on knowing more than they need to.
+As a rule I tend to be very open about my history, but I do wonder what the best way to handle it in interview would be. It never occurred to me hat maybe the hiring manager themself isn't all too keen on knowing more than they need to.
