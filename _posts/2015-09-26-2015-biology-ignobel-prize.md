@@ -1,5 +1,5 @@
 ---
-date: 2015-09-26 22:29
+date: 2015-09-26 22:36
 title: "2015 Biology Ignobel Prize"
 external_url: http://www.improbable.com/ig/winners/
 tags: ignobel biology chicken dinosaur
