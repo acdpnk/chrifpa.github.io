@@ -26,5 +26,5 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: /:year/:month/:day/:title/
-      layout: "post"
+      permalink: /posts/:year-:month-:day-:title/
+      layout: post
