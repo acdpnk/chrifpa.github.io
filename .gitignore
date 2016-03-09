@@ -4,3 +4,4 @@ _site
 _drafts
 .atom-build.json
 *.sublime-workspace
+Gemfile*

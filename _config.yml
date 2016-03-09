@@ -15,9 +15,11 @@ icon_char: "♡&#160;"
 excerpt_separator: "<!-- break -->"
 
 # Build settings
+gems: [jekyll-paginate]
 markdown: kramdown
 paginate: 10
 paginate_path: "page:num"
+timezone: Europe/Berlin
 
 exclude: ["acidpink.sublime-project", "README.md", "TODO.md"]
 
