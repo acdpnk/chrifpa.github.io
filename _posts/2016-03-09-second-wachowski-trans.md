@@ -1,10 +1,7 @@
 ---
 date: 2016-03-09 11:34
 title: "Second Wachowski Filmmaker Sibling Comes Out as Trans"
-tags:
-	- trans
-	- Lilly Wachowski
-	
+tags: trans
 external_url: http://www.windycitymediagroup.com/m/APPredirect.php?AID=54509
 ---
 
