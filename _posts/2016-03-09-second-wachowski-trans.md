@@ -13,4 +13,4 @@ Lilly:
 
 >Being transgender is not easy. We live in a majority-enforced gender binary world. This means when you're transgender you have to face the hard reality of living the rest of your life in a world that is openly hostile to you. 
 
-Let's me be clear: that she came out under threat of being outed against her will by a totally-not-a-tabloid is disgusting. So while I wish she'd had the chance to do it in her own time, her statement is *amazing*. [Go read it](http://www.windycitymediagroup.com/m/APPredirect.php?AID=54509), I could literally have taken the whole thing as a pull quote.
+Let me be clear: that she came out under threat of being outed against her will by a totally-not-a-tabloid is disgusting. So while I wish she'd had the chance to do it in her own time, her statement is *amazing*. [Go read it](http://www.windycitymediagroup.com/m/APPredirect.php?AID=54509), I could literally have taken the whole thing as a pull quote.
