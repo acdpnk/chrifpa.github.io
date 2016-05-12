@@ -21,7 +21,7 @@ paginate: 10
 paginate_path: "page:num"
 timezone: Europe/Berlin
 
-exclude: ["acidpink.sublime-project", "README.md", "TODO.md"]
+exclude: ["acidpink.sublime-project", "README.md", "TODO.md", "Gemfile", "Gemfile.lock"]
 
 defaults:
   - scope:
