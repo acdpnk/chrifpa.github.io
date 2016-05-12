@@ -1,5 +1,4 @@
 ---
-permalink: /2015-04-30-backwards-bicycle
 date: 2015-04-30 18:26
 title: "Backwards Bicycle"
 layout: post

@@ -1,8 +1,7 @@
 ---
-permalink: /2015-03-18-enter-telephone
 date: 2015-03-18 12:34
 title: "Enter Telephone"
-layout: post 
+layout: post
 external_url: https://m.soundcloud.com/mixessss10/lady-gaga-ft-beyonce-vs-metallica-enter-telephone-rock-dance-mix-djs-from-mars
 tags: music gaga metallica beyonce
 ---

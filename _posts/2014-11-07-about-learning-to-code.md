@@ -1,5 +1,4 @@
 ---
-permalink: /about-learning-to-code
 date: 2014-11-07 14:20
 title: "About Learning To Code"
 layout: post

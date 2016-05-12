@@ -1,5 +1,4 @@
 ---
-permalink: /whatever-happened-to-cyberpunk
 date: 2014-11-07 16:29
 title: "Whatever Happened To Cyberpunk?"
 layout: post

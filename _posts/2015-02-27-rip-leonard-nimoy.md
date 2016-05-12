@@ -2,7 +2,6 @@
 title: "R.I.P. Leonard Nimoy"
 layout: post
 tags: leonard nimoy rip star trek hero
-permalink: /2015-02-27-rip-leonard-nimoy
 date: 2015-02-27 19:51
 ---
 

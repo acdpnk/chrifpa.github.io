@@ -1,5 +1,4 @@
 ---
-permalink: /2015-04-03-modem-handshake
 date: 2015-04-03 19:46
 title: "Dial-Up Modem Sounds Explained"
 layout: post

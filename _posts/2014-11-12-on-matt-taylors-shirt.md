@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-12-on-matt-taylors-shirt
 date: 2014-11-12 23:38
 title: "On Matt Taylor's Shirt…"
 layout: post

@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-19-on-minding-the-gap
 date: 2014-11-19 19:44
 title: "On Minding the Gap"
 layout: post
@@ -14,7 +13,7 @@ Luckily, I had just found Rose Ames' excellent blog [Superluser](http://rose.git
 
 I wont say that she turned things around for me, but her words certainly fell on fertile ground. I have been learning *a lot* in the last couple of years, and one of the most important lessons I learned is perseverance. Sometimes it feels like that's all there is to it: keep trying. For coding this is especially true -- often it's 95% pulling hairs and 5% typing frantically. You figure it out eventually, but before you get there you have to go through the Valley of [Wat]({{ site.baseurl }}{{ site.assets }}wat-gigantic-duck.jpg).
 
-Yesterday's post could certainly have been better, but that's not the point. It's not what I'm doing this for. I'm doing this because to write good stuff, you first have to write a whole lot of bad stuff. 
+Yesterday's post could certainly have been better, but that's not the point. It's not what I'm doing this for. I'm doing this because to write good stuff, you first have to write a whole lot of bad stuff.
 
 {% include video.html src="//player.vimeo.com/video/24715531" %}
 

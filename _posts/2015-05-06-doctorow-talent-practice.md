@@ -1,5 +1,4 @@
 ---
-permalink: /2015-05-06-doctorow-talent-practice
 date: 2015-05-06 12:45
 title: "Cory Doctorow on Talent And Practice"
 external_url: http://www.locusmag.com/Perspectives/2015/05/cory-doctorow-shorter/

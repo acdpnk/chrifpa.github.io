@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-01-nuclear-black-swan
 date: 2014-12-01 15:53
 title: "Nuclear war, the black swan we can never see"
 layout: post

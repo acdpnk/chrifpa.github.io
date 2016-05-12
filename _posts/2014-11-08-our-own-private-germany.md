@@ -1,5 +1,4 @@
 ---
-permalink: /our-own-private-germany
 date: 2014-11-08 19:33
 title: "Our Own Private Germany"
 layout: post

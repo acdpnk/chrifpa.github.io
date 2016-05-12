@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-15-now-philae-down-to-sleep
 date: 2014-11-15 22:01
 title: "Now Philae Down to Sleep"
 layout: post

@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-14-matt-taylor-apologizes
 date: 2014-11-14 19:15
 title: "Matt Taylor Apologizes"
 layout: post

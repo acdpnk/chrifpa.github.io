@@ -1,10 +1,9 @@
 ---
-permalink: /2015-01-18-good-design
 date: 2015-01-18 18:12
 layout: post
 title: "Dieter Rams and Jony Ive on Design"
 published: True
-categories: 
+categories:
 tags: design tech
 external_url: https://www.youtube.com/watch?v=RWoprlPMBnA
 ---

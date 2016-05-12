@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-20-we-are-the-future-cunt-cyberfeminism-in-the-90s
 date: 2014-11-20 21:27
 title: "'We Are the Future Cunt': CyberFeminism in the 90s"
 layout: post

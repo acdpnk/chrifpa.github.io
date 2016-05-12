@@ -1,5 +1,4 @@
 ---
-permalink: /2015-04-22-jewish-teen-transition
 date: 2015-04-22 14:57
 title: "California Jewish School Marks 8th Grader's Gender Transition"
 external_url: http://www.timesofisrael.com/california-jewish-school-marks-8th-graders-gender-transition/

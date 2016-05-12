@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-23-when-my-mom-was-an-astronaut
 date: 2014-11-23 20:53
 title: "When My Mom Was an Astronaut"
 layout: post

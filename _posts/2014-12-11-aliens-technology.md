@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-11-aliens-technology
 date: 2014-12-11 14:19
 title: "Why James Cameron’s Aliens is the Best Movie About Technology"
 external_url: https://medium.com/message/why-james-camerons-aliens-is-the-best-movie-about-technology-4741e666e07a

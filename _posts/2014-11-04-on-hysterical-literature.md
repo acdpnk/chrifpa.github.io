@@ -1,5 +1,4 @@
 ---
-permalink: /on-hysterical-literature
 date: 2014-11-04 00:55
 title: "On Hysterical Literature"
 layout: post

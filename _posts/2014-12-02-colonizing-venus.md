@@ -1,8 +1,7 @@
 ---
-permalink: /2014-12-02-colonizing-venus
 date: 2014-12-02 22:29
 title: "Will We Build Colonies That Float Over Venus Like Buckminster Fuller's &quot;Cloud Nine&quot;?"
-layout: post 
+layout: post
 external_url: http://www.science20.com/robert_inventor/will_we_build_colonies_that_float_over_venus_like_buckminster_fullers_cloud_nine-127573
 tags: space science
 ---

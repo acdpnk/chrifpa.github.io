@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-11-net-neutrality-is-sooo-much-more-than-access-to-the-tubes
 date: 2014-11-11 22:44
 title: "Net Neutrality Is Sooo Much More Than Access to the “Tubes”…"
 layout: post

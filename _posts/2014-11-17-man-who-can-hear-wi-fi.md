@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-17-the-man-who-can-hear-wi-fi-wherever-he-walks
 date: 2014-11-17 18:15
 title: "The man who can hear Wi-Fi wherever he walks"
 layout: post
@@ -12,4 +11,4 @@ tags: science tech cyborgs
 
 >As I approach Turnpike Lane tube station and descend to the underground platform, I catch the now familiar gurgle of the public Wi-Fi hub, as well as the staff network beside it. On board the train, these sounds fade into silence as we burrow into the tunnels leading to central London.
 
-I don't think I could cope with a constant soundscape, but the idea of additional, tech-related (and tech-created) senses fascinates me deeply. 
+I don't think I could cope with a constant soundscape, but the idea of additional, tech-related (and tech-created) senses fascinates me deeply.

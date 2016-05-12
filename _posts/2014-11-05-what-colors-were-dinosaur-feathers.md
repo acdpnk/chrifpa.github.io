@@ -1,5 +1,4 @@
 ---
-permalink: /what-colors-were-dinosaur-feathers
 date: 2014-11-05 11:50
 title: "What Colors Were Dinosaur Feathers?"
 layout: post

@@ -1,5 +1,4 @@
 ---
-permalink: /why-you-looked-weird-in-high-school-
 date: 2014-11-09 22:55
 title: "Why You Looked Weird in High School "
 layout: post
@@ -16,4 +15,4 @@ tags: [me, culture]
 
 >Even when we’re not trying to present anything, we wind up saying something. That girl with the cheap highlights may not be able to afford better ones, but she also might just like how they look, and not realize that other people consider it a marker of class. When I talked to my friends about our inept fumblings with crafting an image, one refrain kept coming up: “Nobody told me.” We may wear or do things not because we get great reactions, but because we’ve never received feedback at all.
 
-Ever since I gave up the goth look of my depressive late teens and early twenties I've had no distinct style to identify with. I miss that. But at the time, it was pretty much like this. 
+Ever since I gave up the goth look of my depressive late teens and early twenties I've had no distinct style to identify with. I miss that. But at the time, it was pretty much like this.

@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-12-apollo-surface-panoramas
 date: 2014-12-12 15:03
 title: "Apollo Surface Panoramas"
 external_url: http://www.lpi.usra.edu/resources/apollopanoramas/

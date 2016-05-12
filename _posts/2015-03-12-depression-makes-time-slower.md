@@ -1,8 +1,7 @@
 ---
-permalink: /2015-03-12-depression-makes-time-slower
 date: 2015-03-12 14:34
 title: "Depression Makes Time Feel Slower"
-layout: post 
+layout: post
 external_url: http://motherboard.vice.com/read/depression-makes-time-feel-slower
 tags: depression
 ---

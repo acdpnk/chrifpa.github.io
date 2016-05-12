@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-14-kevin-kelly-ai
 date: 2014-12-14 23:06
 title: "Kevin Kelly on Artificial Intelligence"
 external_url: http://www.wired.com/2014/10/future-of-artificial-intelligence/

@@ -1,5 +1,4 @@
 ---
-permalink: /2015-04-30-farewell-messenger
 date: 2015-04-30 16:19
 title: "NASA Bids Farewell to MESSENGER, Its Mercury Orbiter"
 external_url: http://arstechnica.com/science/2015/04/29/nasa-bids-farewell-to-messenger-its-mercury-orbiter

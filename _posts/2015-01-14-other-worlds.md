@@ -1,5 +1,4 @@
 ---
-permalink: /2015-01-14-other-worlds
 date: 2015-01-14 20:31
 title: "What Other Worlds Have We Landed On?"
 external_url: http://www.universetoday.com/118165/what-other-worlds-have-we-landed-on/

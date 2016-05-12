@@ -1,5 +1,4 @@
 ---
-permalink: /2015-03-10-why-dont-my-characters-look-like-me
 date: 2015-03-10 22:47
 title: "Madeline Messer: I’m a 12-Year-Old Girl. Why Don’t the Characters in My Apps Look Like Me?"
 external_url: http://www.washingtonpost.com/posteverything/wp/2015/03/04/im-a-12-year-old-girl-why-dont-the-characters-in-my-apps-look-like-me/

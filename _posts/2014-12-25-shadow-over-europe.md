@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-25-shadow-over-europe
 date: 2014-12-25 14:42
 title: "A Shadow Over Europe"
 external_url: http://placedeladentelle.tumblr.com/post/106138540679/shadowwraiths-today-germany-saw-a-record-number

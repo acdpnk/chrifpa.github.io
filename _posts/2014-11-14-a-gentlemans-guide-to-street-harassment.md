@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-14-a-gentlemans-guide-to-street-harassment
 date: 2014-11-14 10:14
 title: "A Gentleman’s Guide To Street Harassment"
 layout: post

@@ -1,5 +1,4 @@
 ---
-permalink: /on-the-25th-anniversary-of-the-fall-of-the-berlin-wall
 date: 2014-11-09 20:14
 title: "On the 25th Anniversary of the Fall of the Berlin Wall"
 layout: post

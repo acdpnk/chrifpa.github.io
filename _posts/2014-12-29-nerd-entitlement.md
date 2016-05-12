@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-29-nerd-entitlement
 date: 2014-12-29 21:32
 title: "Laurie Penny On Nerd Entitlement"
 external_url: http://www.newstatesman.com/laurie-penny/on-nerd-entitlement-rebel-alliance-empire

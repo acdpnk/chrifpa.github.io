@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-28-postpartum-depression
 date: 2014-11-28 21:25
 title: "When Your Postpartum Depression Doesn’t End"
 layout: post

@@ -1,5 +1,4 @@
 ---
-permalink: /were-sexist-toward-robots
 date: 2014-11-04 11:11
 title: "We're Sexist Toward Robots"
 layout: post

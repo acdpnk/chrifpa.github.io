@@ -1,8 +1,7 @@
 ---
-permalink: /2014-11-16-thanks-to-that-shirt-we-may-get-a-shirt-celebrating-women-in-science
 date: 2014-11-16 18:53
 title: "Thanks To That Shirt, We May Get a Shirt Celebrating Women In Science"
-layout: post 
+layout: post
 external_url: http://space.io9.com/that-time-a-scientist-was-held-accountable-for-his-sens-1658525347
 tags: science space feminism
 ---

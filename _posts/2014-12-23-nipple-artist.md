@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-23-nipple-artist
 date: 2014-12-23 22:54
 title: "The Nipple Artist"
 layout: post

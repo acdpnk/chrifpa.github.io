@@ -1,10 +1,9 @@
 ---
-permalink: /2014-12-09-parable-of-the-polygons
 date: 2014-12-09 15:50
 layout: post
 title: "Parable of the Polygons"
 published: True
-categories: 
+categories:
 tags: politics
 external_url: http://ncase.me/polygons/
 ---

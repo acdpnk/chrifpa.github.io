@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-13-teaching-physics
 date: 2014-12-13 16:55
 title: "Walter Lewin, the art of teaching, and physics’ gender problem"
 external_url: https://medium.com/@uberpreeya/walter-lewin-the-art-of-teaching-and-physics-gender-problem-9ebe5ea3adc0

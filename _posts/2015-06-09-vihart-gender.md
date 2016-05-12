@@ -1,5 +1,4 @@
 ---
-permalink: /2015-06-09-vihart-gender
 date: 2015-06-09 23:23
 title: "The Wonderful Vi Hart on Gender"
 layout: post

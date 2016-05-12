@@ -1,8 +1,7 @@
 ---
-permalink: /2014-11-22-about-the-ipad-as-a-professional-platform
 date: 2014-11-22 20:45
 title: "About the iPad as a Professional Platform"
-layout: post 
+layout: post
 tags: tech apple
 ---
 

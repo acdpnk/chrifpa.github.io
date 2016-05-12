@@ -1,11 +1,10 @@
 ---
-permalink: /2015-01-20-programming-languages
 date: 2015-01-20 19:43
 layout: post
 title: "Programming Languages and False Stereotypes"
 published: True
-categories: 
-tags: 
+categories:
+tags:
 external_url: https://modelviewculture.com/pieces/c-is-manly-python-is-for-n00bs-how-false-stereotypes-turn-into-technical-truths
 ---
 

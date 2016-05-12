@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-09-leaking-nudes
 date: 2014-12-09 23:46
 title: "Leaking Nudes"
 external_url: https://modelviewculture.com/pieces/leaking-nudes

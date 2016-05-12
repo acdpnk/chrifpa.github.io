@@ -1,5 +1,4 @@
 ---
-permalink: /this-is-the-best-image-ever-of-a-planet-being-born
 date: 2014-11-06 19:30
 title: "This Is the Best Image Ever of a Planet Being Born"
 layout: post

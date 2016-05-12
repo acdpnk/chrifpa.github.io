@@ -1,8 +1,7 @@
 ---
-permalink: /2015-05-03-do-not-fuck-with-this-beetle
 date: 2015-05-03 12:48
 title: "Do Not Fuck With This Beetle"
-layout: post 
+layout: post
 external_url: http://motherboard.vice.com/read/do-not-fuck-with-this-beetle
 tags: science
 ---

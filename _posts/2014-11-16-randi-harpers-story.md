@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-16-randi-harpers-story
 date: 2014-11-16 16:39
 title: "Randi Harper's Story"
 layout: post

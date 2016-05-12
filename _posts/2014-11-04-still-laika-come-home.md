@@ -1,5 +1,4 @@
 ---
-permalink: /why-we-still-want-laika-the-space-dog-to-come-home
 date: 2014-11-04 23:05
 title: "​Why We Still Want Laika the Space Dog to Come Home"
 layout: post

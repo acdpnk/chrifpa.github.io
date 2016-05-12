@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-13-why-women-in-science-are-annoyed-at-rosetta-mission-scientists-clothing
 date: 2014-11-13 17:57
 title: "Why women in science are annoyed at Rosetta mission scientist's clothing"
 layout: post

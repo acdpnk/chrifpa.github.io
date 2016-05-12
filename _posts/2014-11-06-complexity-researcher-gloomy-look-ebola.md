@@ -1,8 +1,7 @@
 ---
-permalink: /a-complexity-researcher-offers-a-rather-gloomy-look-at-the-ebola-outbreak
 date: 2014-11-06 13:49
 title: "A Complexity Researcher Offers a Rather Gloomy Look at the Ebola Outbreak"
-layout: post 
+layout: post
 external_url: http://motherboard.vice.com/read/a-complexity-researcher-offers-a-gloomy-look-at-the-ebola-outbreak
 tags: [politics, science]
 ---

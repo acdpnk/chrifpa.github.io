@@ -1,5 +1,4 @@
 ---
-permalink: /2015-05-06-kids-with-ssh
 date: 2015-05-06 15:24
 title: "Kids With SSH"
 layout: post

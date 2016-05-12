@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-27-lack-of-female-characters
 date: 2014-12-27 21:49
 title: "A Lack of Female Characters is Always a Choice"
 external_url: http://feministfiction.com/2014/12/16/a-lack-of-female-characters-is-always-a-choice/

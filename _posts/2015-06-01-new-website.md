@@ -1,9 +1,8 @@
 ---
-permalink: /2015-06-01-new-website
 date: 2015-06-01 23:10
 title: "New Website"
 layout: post
-tags: hackmops, development, coding, iOS 
+tags: hackmops, development, coding, iOS
 external_url: http://hackmops.com
 ---
 

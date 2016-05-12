@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-07-women-internet
 date: 2014-12-07 19:46
 title: "Women and the Internet"
 layout: post

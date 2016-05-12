@@ -1,5 +1,4 @@
 ---
-permalink: /2015-05-01-scientists-told-to-get-man-to-help
 date: 2015-05-01 21:37
 title: "Female Scientists Told to Get a Man to Help Them With Their Paper"
 external_url: http://jezebel.com/female-scientists-told-to-get-a-man-to-help-them-with-t-1701245887

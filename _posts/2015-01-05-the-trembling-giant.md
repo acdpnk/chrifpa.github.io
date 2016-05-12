@@ -1,5 +1,4 @@
 ---
-permalink: /2015-01-05-the-trembling-giant
 date: 2015-01-05 05:20
 title: "The Trembling Giant"
 external_url: http://en.m.wikipedia.org/wiki/Pando_(tree)

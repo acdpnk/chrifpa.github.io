@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-13-comet-porn
 date: 2014-11-13 00:20
 title: "Comet Porn"
 layout: post

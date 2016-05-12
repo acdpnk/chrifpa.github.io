@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-05-orion-splashdown
 date: 2014-12-05 17:38
 layout: post
 title: "Orion Splashdown"

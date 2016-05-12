@@ -1,5 +1,4 @@
 ---
-permalink: /2015-02-20-feminism-ruined
 date: 2015-02-20 14:27
 title: "Ten Things Feminism Has Ruined For Me"
 layout: post

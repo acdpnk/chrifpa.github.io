@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-31-we-are-all-cyborgs-now
 date: 2014-12-31 18:08
 title: "We Are All Cyborgs Now"
 layout: post

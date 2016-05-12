@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-01-wanderers
 date: 2014-12-01 22:27
 title: "Wanderers"
 layout: post

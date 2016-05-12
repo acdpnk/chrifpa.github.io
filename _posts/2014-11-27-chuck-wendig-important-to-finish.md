@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-27-chuck-wendig-important-to-finish
 date: 2014-11-27 09:54
 title: "Chuck Wendig on Why It’s Important to Finish Your Shit"
 layout: post

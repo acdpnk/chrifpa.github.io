@@ -1,10 +1,9 @@
 ---
-permalink: /2014-11-30-plutonium-and-space-flight
 date: 2014-11-30 23:48
 layout: post
 title: "Plutonium and Space Flight"
 published: True
-categories: 
+categories:
 tags: space science
 ---
 

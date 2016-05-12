@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-26-paternity-leave-stimulus
 date: 2014-12-26 22:57
 title: "The Paternity Leave Stimulus"
 external_url: http://www.psmag.com/navigation/business-economics/paternity-leave-stimulus-family-maternity-worker-productivity-niteroi-brazil-96941/

@@ -1,5 +1,4 @@
 ---
-permalink: /reverse-ocr
 date: 2014-11-06 13:59
 title: "Reverse OCR"
 layout: post

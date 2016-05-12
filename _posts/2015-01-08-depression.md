@@ -1,5 +1,4 @@
 ---
-permalink: /2015-01-08-depression
 date: 2015-01-08 00:40
 title: "Depression"
 layout: post

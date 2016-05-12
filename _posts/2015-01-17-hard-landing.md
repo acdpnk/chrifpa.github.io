@@ -1,5 +1,4 @@
 ---
-permalink: /2015-01-17-this-is-what-elon-musk-calls-a-hard-landing
 date: 2015-01-17 01:25
 title: "This is What Elon Musk Calls a \"Hard Landing\""
 external_url: http://motherboard.vice.com/read/watch-this-vine-of-spacexs-rocket-crashing-and-exploding

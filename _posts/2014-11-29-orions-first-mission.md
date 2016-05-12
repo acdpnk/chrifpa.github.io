@@ -1,6 +1,5 @@
 ---
 date: 2014-11-29 15:24
-permalink: /2014-11-29-orions-first-mission
 title: "Orion's First Mission"
 layout: post
 external_url: http://www.ulalaunch.com/delta-iv-heavy-to-launch-orions-first-flight.aspx
@@ -18,4 +17,4 @@ tags: space science
 [Orion]: http://en.m.wikipedia.org/wiki/Orion_spacecraft
 [Apollo]: http://en.m.wikipedia.org/wiki/Apollo_spacecraft
 
-[^doorstep]: The maximum operational height of the [Space Shuttle](http://en.m.wikipedia.org/wiki/Space_Shuttle) was a pitiful 650 km, while the Moon is just under 400.000 km away. 
+[^doorstep]: The maximum operational height of the [Space Shuttle](http://en.m.wikipedia.org/wiki/Space_Shuttle) was a pitiful 650 km, while the Moon is just under 400.000 km away.

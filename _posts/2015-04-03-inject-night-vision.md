@@ -1,8 +1,7 @@
 ---
-permalink: /2015-04-03-inject-night-vision
 date: 2015-04-03 19:51
 title: "How to Inject Your Eyeballs With Night Vision"
-layout: post 
+layout: post
 external_url: http://m.mic.com/articles/113740/a-team-of-biohackers-has-figured-out-how-to-inject-your-eyeballs-with-night-vision
 tags: science biohacking
 ---

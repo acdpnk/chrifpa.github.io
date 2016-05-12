@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-25-no-north-korea
 date: 2014-12-25 12:16
 title: "No, North Korea Didn’t Hack Sony"
 external_url: http://www.thedailybeast.com/articles/2014/12/24/no-north-korea-didn-t-hack-sony.html?via=mobile&source=twitter

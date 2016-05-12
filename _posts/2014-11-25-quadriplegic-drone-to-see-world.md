@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-25-bedroom-bound-quadriplegic-develops-drone-to-see-the-world
 date: 2014-11-25 17:26
 title: "Bedroom-Bound Quadriplegic Develops Drone to See the World"
 layout: post

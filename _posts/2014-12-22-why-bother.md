@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-22-why-bother
 date: 2014-12-22 11:58
 title: "Being A Woman in STEM: Why Do We Even Bother?"
 external_url: http://www.themarysue.com/why-do-i-even-bother-stem/

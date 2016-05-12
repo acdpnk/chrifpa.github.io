@@ -1,5 +1,4 @@
 ---
-permalink: /2014-12-24-sony-calm-down
 date: 2014-12-24 13:57
 title: "The Best Thing We Can Do About the Sony Hack Is Calm Down"
 external_url: http://motherboard.vice.com/read/the-best-thing-we-can-do-about-the-sony-hack-is-calm-down
@@ -15,4 +14,4 @@ Bruce Schneier:
 
 >(Emphasis mine)
 
-The *"proof"* presented so far is laughable to a frightening degree. They could as well claim Santa did it. 
+The *"proof"* presented so far is laughable to a frightening degree. They could as well claim Santa did it.

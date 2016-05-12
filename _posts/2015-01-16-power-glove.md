@@ -1,5 +1,4 @@
 ---
-permalink: /2015-01-16-power-glove
 date: 2015-01-16 11:34
 title: "Nintendo Power Glove, Reborn"
 external_url: http://vimeo.com/116585007

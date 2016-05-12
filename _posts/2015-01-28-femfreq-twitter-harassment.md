@@ -1,5 +1,4 @@
 ---
-permalink: /2015-01-28-femfreq-twitter-harassment
 date: 2015-01-28 18:16
 title: "Feminist Frequency on Twitter Harassment"
 layout: post

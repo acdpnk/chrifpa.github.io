@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-10-matrioshka-brain
 date: 2014-11-10 23:10
 title: "Matrioshka Brain"
 layout: post

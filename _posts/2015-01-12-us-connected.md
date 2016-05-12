@@ -1,5 +1,4 @@
 ---
-permalink: /2015-01-12-us-connected
 date: 2015-01-12 11:11
 layout: post
 title: "Us, Connected"

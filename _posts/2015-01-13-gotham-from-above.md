@@ -1,5 +1,4 @@
 ---
-permalink: /2015-01-13-gotham-from-above
 date: 2015-01-13 23:13
 title: "Gotham From Above"
 layout: post

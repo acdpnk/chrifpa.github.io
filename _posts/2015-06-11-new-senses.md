@@ -1,5 +1,4 @@
 ---
-permalink: /2015-06-11-new-senses
 date: 2015-06-11 11:49
 title: "Rewiring the Brain to Create New Senses"
 external_url: http://motherboard.vice.com/read/rewiring-the-brain-to-create-new-senses

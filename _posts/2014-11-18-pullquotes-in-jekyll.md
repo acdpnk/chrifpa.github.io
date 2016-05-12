@@ -1,5 +1,4 @@
 ---
-permalink: /2014-11-19-pullquotes-in-jekyll
 date: 2014-11-18 23:55
 title: "Pullquotes in Jekyll"
 layout: post
@@ -85,10 +84,10 @@ Here's how the first paragraph of this post was written:
 {% highlight html %}
 {% raw %}
 You know [pullquotes](http://en.wikipedia.org/wiki/Pull_quote) -- {% pq all
-the cool blogs have them %}. As far as I know, all the bigger blogging 
-platforms give you some sort of tool to include them. WordPress probably has 
+the cool blogs have them %}. As far as I know, all the bigger blogging
+platforms give you some sort of tool to include them. WordPress probably has
 a gazillion different plugins for pullquotes. The "platform" I am using,
-[Jekyll](http://jekyllrb.com/), has a plugin system just like WordPress[^1], 
+[Jekyll](http://jekyllrb.com/), has a plugin system just like WordPress[^1],
 but my setup doesn't allow for plugins[^ghp].
 {% endraw %}
 {% endhighlight %}
