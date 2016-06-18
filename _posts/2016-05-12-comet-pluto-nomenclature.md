@@ -5,7 +5,7 @@ tags:
 external_url: http://www.universetoday.com/128836/thanks-comet-pluto-solar-system-nomenclature-needs-major-rethink/
 ---
 
-Nomenclature is just words, and all these "classes" of celestial bodies are arbitrary lines in the sand. Pluto, Earth, Jupiter, and [67P/Churyumov–Gerasimenko][] are vastly different bodies, and where exactly you draw those lines between them is way less interesting than what makes each of them unique and special. Don't get too caught up in nomenclature.
+Nomenclature is just words, and all these "classes" of celestial bodies are arbitrary lines in the sand. Pluto, Earth, Jupiter, and [67P/Churyumov–Gerasimenko][67P] are vastly different bodies, and where exactly you draw those lines between them is way less interesting than what makes each of them unique and special. Don't get too caught up in nomenclature.
 
 The real takeaway:
 
