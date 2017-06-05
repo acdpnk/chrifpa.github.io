@@ -5,3 +5,5 @@ _drafts
 .atom-build.json
 *.sublime-workspace
 Gemfile*
+.bundle/
+ruby/
