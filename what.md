@@ -20,15 +20,6 @@ If comments are available, they are heavily moderated. Abuse will not be tolerat
 
 You can also post something somewhere else on the internet -- if I think it benefits the conversation, I'll be happy to link it.
 
-<hr style="margin:50px" />
-
-### Impressum
-
-Christian F Panzier<br />
-Varrelmannstr. 6<br />
-30453 Hannover<br />
-Germany
-
 
 [mail]: mailto:{{ site.email }}
 [evil]: https://twitter.com/AvoidComments
