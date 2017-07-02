@@ -7,7 +7,7 @@
 	"feed_url": "{{ site.url | append: page.url }}",
 	"author": {
 		"name": "{{ site.author }}",
-		"url:" "https://twitter.com/acdpnk"
+		"url": "https://twitter.com/acdpnk"
     },
 	"items": [
         {% for post in site.posts limit: 20 %}
@@ -16,7 +16,7 @@
 			"title": "{{ post.title | cdata_escape }}",
 			"content_html": {{ post.content | jsonify }},
 			"url": "{{ site.url | append: post.url }}",
-			{% if post.excerpt %}"summary": "{{ post.excerpt | strip_html }}"{% endif %},
+			{% if post.excerpt %}"summary": {{ post.excerpt | strip_html | jsonify }}{% endif %},
             {% if post.external_url %}
             	"external_url": "{{ post.external_url }}",
             {% endif %}
